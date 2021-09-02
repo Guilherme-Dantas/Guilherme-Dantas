@@ -1,6 +1,6 @@
 
 # Olá, visitante
-Opa, eai! Meu nome é Guilherme Dantas e eu sou um estudante de Ciência da Computação em Belo Horizonte. Atualmente, trabalho como estagiário na área de QA com quase uma no de experiência.
+Opa, eai! Meu nome é Guilherme Dantas e eu sou um estudante de Ciência da Computação em Belo Horizonte. Atualmente, trabalho como estagiário na área de QA com quase um ano de experiência.
 
 No momento, meus estudos tem como objetivo aprender mais sobre back-end (SpringBoot) e design patterns. Assim como um pouquinho de Angular :P
 
