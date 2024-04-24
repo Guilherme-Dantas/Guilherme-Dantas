@@ -1,11 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme Dantas and I'm a Software Developer, from Brazil</h2>
-
-###
-
-<p align="left">I'm currently working as a software developer in a Software Warehouse in Brazil, developing applications for a multinational company. In addition, I have one year of experience as Software QA.<br><br>I'm studying Computer Science with an expected completion date of December 2024, focusing on high-performance computing.</p>
-
-###
-
+<h2 align="left">Hi 👋! My name is Guilherme Dantas and I'm a Software Engineer</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Dantas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Guilherme-Dantas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
