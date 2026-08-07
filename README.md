@@ -1,51 +1,26 @@
-<h2 align="left">Hi 👋! My name is Guilherme Dantas and I'm a Software Engineer</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Dantas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Guilherme-Dantas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-Dantas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# Guilherme Dantas
 
-###
+Software Engineer II @ [Hotmart](https://www.hotmart.com) · Computer Scientist · Belo Horizonte, BR
 
-<h2 align="center">Languages / Frameworks</h2>
+I build internal platforms and tooling that help engineering teams move faster — observability, developer experience, and practical AI in real production context.
 
-###
+[LinkedIn](https://www.linkedin.com/in/guilherme-dantascf) · [Resume / site](https://guilherme-dantas.github.io) · [GitHub](https://github.com/Guilherme-Dantas)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-</div>
+---
 
-###
+### Focus
 
-<h2 align="center">Contacts</h2>
+- Internal developer platforms & productivity tooling
+- Observability and engineering workflows
+- TypeScript / React / Node on AWS
 
-###
+### Stack
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+`TypeScript` · `React` · `Node.js` · `AWS` · `Python` · `Java` · `PostgreSQL` · `Docker` · `Git`
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Guilherme-Dantas/count.svg?"  />
-</div>
-
-###
+<p align="center">
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Dantas&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=en" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Dantas&layout=compact&langs_count=6&theme=transparent&hide_border=true&locale=en" />
+</p>
