@@ -1,26 +1,18 @@
 # Guilherme Dantas
 
-Software Engineer II @ [Hotmart](https://www.hotmart.com) · Computer Scientist · Belo Horizonte, BR
+Senior Software Engineer at [Hotmart](https://www.hotmart.com) · Belo Horizonte, Brazil
 
-I build internal platforms and tooling that help engineering teams move faster — observability, developer experience, and practical AI in real production context.
+I work on the internal platform engineering teams use during the week: one place for context, clearer production signals, and fewer steps between tools. AI shows up in that work when it can use the docs, standards, and systems already in place.
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-dantascf) · [Resume / site](https://guilherme-dantas.github.io) · [GitHub](https://github.com/Guilherme-Dantas)
+[Site](https://guilherme-dantas.github.io) · [LinkedIn](https://www.linkedin.com/in/guilherme-dantascf)
 
----
+## At Hotmart
 
-### Focus
+Software for technology teams. TypeScript, React, and Node on AWS, with relational data behind it. The useful part is boring on purpose: shared ownership, observability people can act on, and tooling that does not ask someone to open five other tabs.
 
-- Internal developer platforms & productivity tooling
-- Observability and engineering workflows
-- TypeScript / React / Node on AWS
+## On here
 
-### Stack
+- [stickler](https://github.com/Guilherme-Dantas/stickler) reads a markdown dossier and allows or denies what an agent does in Cursor, Claude Code, and Codex.
+- [longplay](https://github.com/Guilherme-Dantas/longplay) is a small OpenAI-compatible harness, plus a Spotify picker that sizes an album to a workout.
 
-`TypeScript` · `React` · `Node.js` · `AWS` · `Python` · `Java` · `PostgreSQL` · `Docker` · `Git`
-
----
-
-<p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Dantas&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=en" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Dantas&layout=compact&langs_count=6&theme=transparent&hide_border=true&locale=en" />
-</p>
+Older notes on gem5 and parallel algorithms are in [gem5-evaluation-computer-architectures](https://github.com/Guilherme-Dantas/gem5-evaluation-computer-architectures).
